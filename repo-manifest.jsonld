@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/astral-sh/ty-vscode/commit/83712be51e27fc83566353d4cd7b22e3a9925159",
       "git:hexsha": "83712be51e27fc83566353d4cd7b22e3a9925159",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2026.78.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2026.78.0",
+      "repolex:parsedAt": "2026-10-10T04:23:44.557834+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astral-sh/ty-vscode/commit/1cb56146f5c88603f63c580ea596f73eee6de759",
