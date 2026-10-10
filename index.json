@@ -1,0 +1,11 @@
+{
+  "org": "astral-sh",
+  "repo": "ty-vscode",
+  "versions": [
+    {
+      "commit": "83712be51e27fc83566353d4cd7b22e3a9925159",
+      "tag": "2026.78.0",
+      "parsed_at": "2026-10-10T04:23:44.558717+00:00"
+    }
+  ]
+}
